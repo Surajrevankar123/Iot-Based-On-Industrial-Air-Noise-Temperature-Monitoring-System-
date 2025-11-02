@@ -1,0 +1,2 @@
+# Iot-Based-On-Industrial-Air-Noise-Temperature-Monitoring-System-
+An IoT-based Industrial Air, Noise, and Temperature Monitoring System is a project that uses sensors to check the air quality, sound level, and temperature in a factory. The sensors send the data to the internet so it can be seen on a computer or mobile. This helps to keep the workplace safe, reduce pollution, and take quick action when the levels 
